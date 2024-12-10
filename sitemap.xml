@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lukamesec.github.io/posts/cakalna-vrsta/</loc>
-    <lastmod>2024-11-30T19:41:21+01:00</lastmod>
-  </url><url>
     <loc>https://lukamesec.github.io/</loc>
-    <lastmod>2024-11-30T19:41:21+01:00</lastmod>
+    <lastmod>2024-12-07T16:55:05+01:00</lastmod>
   </url><url>
     <loc>https://lukamesec.github.io/posts/</loc>
+    <lastmod>2024-12-07T16:55:05+01:00</lastmod>
+  </url><url>
+    <loc>https://lukamesec.github.io/posts/terrifier-1-2-3/</loc>
+    <lastmod>2024-12-07T16:55:05+01:00</lastmod>
+  </url><url>
+    <loc>https://lukamesec.github.io/posts/cakalna-vrsta/</loc>
     <lastmod>2024-11-30T19:41:21+01:00</lastmod>
   </url><url>
     <loc>https://lukamesec.github.io/categories/</loc>
